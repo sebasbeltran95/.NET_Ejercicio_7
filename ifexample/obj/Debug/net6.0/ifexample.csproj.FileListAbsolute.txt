@@ -1,0 +1,14 @@
+D:\platzi\ifexample\ifexample\bin\Debug\net6.0\ifexample.exe
+D:\platzi\ifexample\ifexample\bin\Debug\net6.0\ifexample.deps.json
+D:\platzi\ifexample\ifexample\bin\Debug\net6.0\ifexample.runtimeconfig.json
+D:\platzi\ifexample\ifexample\bin\Debug\net6.0\ifexample.dll
+D:\platzi\ifexample\ifexample\bin\Debug\net6.0\ifexample.pdb
+D:\platzi\ifexample\ifexample\obj\Debug\net6.0\ifexample.GeneratedMSBuildEditorConfig.editorconfig
+D:\platzi\ifexample\ifexample\obj\Debug\net6.0\ifexample.AssemblyInfoInputs.cache
+D:\platzi\ifexample\ifexample\obj\Debug\net6.0\ifexample.AssemblyInfo.cs
+D:\platzi\ifexample\ifexample\obj\Debug\net6.0\ifexample.csproj.CoreCompileInputs.cache
+D:\platzi\ifexample\ifexample\obj\Debug\net6.0\ifexample.dll
+D:\platzi\ifexample\ifexample\obj\Debug\net6.0\refint\ifexample.dll
+D:\platzi\ifexample\ifexample\obj\Debug\net6.0\ifexample.pdb
+D:\platzi\ifexample\ifexample\obj\Debug\net6.0\ifexample.genruntimeconfig.cache
+D:\platzi\ifexample\ifexample\obj\Debug\net6.0\ref\ifexample.dll
